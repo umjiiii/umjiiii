@@ -1,7 +1,7 @@
 ### <div align="center">Hi, 👋🏻 I'm Ezra Natanael</div>  
   
 
-- 🔭 I’m currently working on [Golang Machine Learning Algorithms](https://github.com/umjiiii/golang-ML-algorithms)  
+- 🔭 I’m currently working on [Golang Machine Learning Algorithms](https://github.com/umjiiii/goml)  
   
 
 - 🌱 I’m currently learning Backend Development and Machine Learning  
