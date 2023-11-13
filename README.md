@@ -1,17 +1,42 @@
 ### <div align="center">Hi, 👋🏻 I'm Ezra Natanael</div>  
   
+```go
+package main
 
-- 🔭 I’m currently working on [Golang Machine Learning Algorithms](https://github.com/umjiiii/goml)  
-  
+import (
+	"fmt"
+	"strings"
+)
 
-- 🌱 I’m currently learning Backend Development and Machine Learning  
-  
+type Person interface {
+	getGreeting() string
+}
 
-- ❓ Ask me about anything related to Golang, Java, Python and related backend technologies  
-  
+type Myself struct {
+	Name     string
+	Nickname string
+	Skills   []string
+}
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+func (m *Myself) getGreetingMessage() string {
+	skillsString := strings.Join(m.Skills, ", ")
+	return fmt.Sprintf("Hi, I am %s! Better known online as %s, my skills include %s", m.Name, m.Nickname, skillsString)
+}
+
+func (m *Myself) greet() string {
+	return m.getGreetingMessage()
+}
+
+func main() {
+	var a = Myself{
+		Name:     "Ezra",
+		Nickname: "umjiiii",
+		Skills:   []string{"Golang", "Java", "Python", "JavaScript", "PHP", "Laravel"},
+	}
+
+	fmt.Println(a.greet())
+}
+```
 
 <br/>  
 
