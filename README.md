@@ -4,9 +4,9 @@ I'm a software developer from Indonesia. 🇮🇩
 
 I build APIs and open-source tools like [@gopiah](https://github.com/ezrantn/gopiah) and [@tweetify](https://github.com/ezrantn/tweetify).
 
-I'm currently working on [@jane](https://github.com/ezrantn/jane) a NoSQL database from scratch inspired by the Bitcask paper. 📝
+I'm currently working on [@steganogo](https://github.com/ezrantn/steganogo) a Steganography implementation in Go. 🖼️
 
-My primary coding languages are Go and TypeScript, but I'm also familiar with other languages to some extent. 👨‍💻
+My primary coding languages are Go and TypeScript, but I'm also familiar with other languages. 👨‍💻
 
 You can find me on:
 
