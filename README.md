@@ -1,6 +1,6 @@
 ### Hi I'm [@ezrantn](https://x.com/EzraNatanael6) (Ezra Natanael) 👋
 
-I'm a Software Developer from Indonesia. 🇮🇩
+I'm a Software Engineer from Indonesia. 🇮🇩
 
 I build APIs and open-source tools like [@gopiah](https://github.com/ezrantn/gopiah) and [@tweetify](https://github.com/ezrantn/tweetify).
 
